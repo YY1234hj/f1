@@ -1,6 +1,7 @@
 // comment
 document.addEventListener("DOMContentLoaded", function() {
 	const url = 'https://google.com';
+	condst some = '';
 
   const btns = document.querySelectorAll('.js-button');
 	if(btns.length === 0) return;
