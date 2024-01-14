@@ -1,4 +1,4 @@
-// comment
+// comment 1
 document.addEventListener("DOMContentLoaded", function() {
 	const url = 'https://google.com';
 	condst some = '';
