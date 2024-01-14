@@ -1,3 +1,4 @@
+// comment
 document.addEventListener("DOMContentLoaded", function() {
 	const url = 'https://google.com';
 
