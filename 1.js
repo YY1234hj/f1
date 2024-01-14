@@ -1,3 +1,3 @@
-const link = (url) => {
+const linkUrl = (url) => {
   return url;
 }
