@@ -1,7 +1,6 @@
-// comment 444444
+// version 0.0.1
 document.addEventListener("DOMContentLoaded", function() {
-	const url = 'https://google.com';
-	condst some = '';
+	const url = 'https://www.jsdelivr.com/';
 
   const btns = document.querySelectorAll('.js-button');
 	if(btns.length === 0) return;
